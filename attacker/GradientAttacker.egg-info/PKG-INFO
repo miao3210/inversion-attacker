@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: GradientAttacker
+Version: 0.0.1
+Summary: This is a package used to attack on the gradient in federated RL
+Author: Miao Li
+Author-email: limiao6321@gmail.com

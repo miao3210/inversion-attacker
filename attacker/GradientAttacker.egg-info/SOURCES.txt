@@ -1,0 +1,6 @@
+setup.py
+GradientAttacker.egg-info/PKG-INFO
+GradientAttacker.egg-info/SOURCES.txt
+GradientAttacker.egg-info/dependency_links.txt
+GradientAttacker.egg-info/requires.txt
+GradientAttacker.egg-info/top_level.txt
